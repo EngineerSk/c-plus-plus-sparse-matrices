@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SparseMatrixUsingCPlusPlus",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SparseMatrixUsingCPlusPlus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SparseMatrixUsingCPlusPlus-Debug-0ec498d0a668c08a6c0d.json",
+					"name" : "SparseMatrixUsingCPlusPlus",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/SparseMatrices/SparseMatrixUsingCPlusPlus/cmake-build-debug",
+		"source" : "/home/oriade-soft-dev/CLionProjects/C++/DSAndAlgo/MuhammadAlBasri/SparseMatrices/SparseMatrixUsingCPlusPlus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
